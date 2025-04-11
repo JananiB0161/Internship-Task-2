@@ -42,3 +42,5 @@ Visualized the results using a confusion matrix.
 
 Output:
 A confusion matrix was generated to show how well the model performed at predicting survival.
+
+![task2_output_confusion_matrix](https://github.com/user-attachments/assets/e42c8555-9b5c-4151-800f-7df8dc8b9fd2)
